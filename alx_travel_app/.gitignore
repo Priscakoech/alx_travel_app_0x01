@@ -1,7 +1,11 @@
 # virtual environment
 env/
 __pycache__/
-*.pyc[cod]
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
 
 # Django migrations
 migrations/
