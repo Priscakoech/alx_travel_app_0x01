@@ -1,0 +1,19 @@
+# virtual environment
+env/
+__pycache__/
+*.pyc[cod]
+
+# Django migrations
+migrations/
+*.sqlite3
+
+# IDE files
+.vscode/
+*.swp
+
+#environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
